@@ -1,0 +1,16 @@
+{
+	"name": "ideabox/counter",
+	"title": "Counter",
+	"category": "widgets",
+	"icon": "chart-bar",
+	"description": "Show off numbers or stats on your website using animated Counter block for Gutenberg.",
+	"textdomain": "ib-counter",
+	"keywords": [ "facts", "stats", "numbers", "figures" ],
+	"supports": {
+		"html": false,
+		"align": false
+	},
+	"editorScript": "file:./build/index.js",
+	"editorStyle": "file:./build/index.css",
+	"style": "file:./build/style-index.css"
+}
